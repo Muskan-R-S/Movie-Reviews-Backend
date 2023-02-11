@@ -1,7 +1,0 @@
-: in a route specifies that it is a variable 
-eg: router.route("/movies/:id")
-
-we connect to the db in index.js 
-we interact with the db in reviewsDAO
-
-Connection to actual mongodb happens in reviewsDAO
